@@ -34,7 +34,7 @@ def diferencia(k,l):
   e=[]
   for i in k:
     if i not in l:
-      d.append(i)g
+      d.append(i)
   
   for i in l:
     if i not in k:
